@@ -7,7 +7,7 @@ I'm from São Paulo/Brazil.
 :cat2: **Cats | :joystick: Games | :cupid: Programming**
 
 ## Skills :computer:
-JavaScript, Node js, Vue js, Ruby, Java, HTML, CSS, MySQL, MongoDB, AWS. 
+JavaScript, Node js, Vue js, Ruby, Ruby on Rails, Java, HTML, CSS, MySQL, MongoDB, AWS. 
 
 ## Social media :love_letter:
 
