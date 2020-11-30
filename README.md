@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/55500140/92347340-2ee1aa80-f0a6-11ea-942c-5aa36785301e.png)
+![izzy](https://user-images.githubusercontent.com/55500140/100650873-5ce02f00-3323-11eb-868e-d05a4f21b8ad.png)
 
 <center>
 <table>
@@ -26,7 +26,7 @@
 </h3>
 
 <p align="left">
-  JavaScript, Node js, Vue js, Ruby, Ruby on Rails, Elixir, Java, HTML, CSS, MySQL, MongoDB, AWS. 
+  JavaScript, Node js, Vue js, Ruby, Ruby on Rails, HTML, CSS, MySQL, MongoDB, AWS. 
 <p align="left">
   
 <h3 align="left">
