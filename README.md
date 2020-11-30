@@ -14,7 +14,7 @@
 </h3>
 
 <p align="left">
-  Currently working with back-end development at Wirecard Brazil, using Ruby, Java and Kotlin.
+  Currently working with back-end development at PagSeguro PagBank, using Ruby, Java and Kotlin.
 
   I'm from São Paulo/Brazil.
 
