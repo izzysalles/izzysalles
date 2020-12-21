@@ -14,9 +14,9 @@
 </h3>
 
 <p align="left">
-  Currently working with back-end development at PagSeguro PagBank, using Ruby, Java and Kotlin.
+  Currently working with frontend development at PagSeguro PagBank, using Vue.js
 
-  I'm from São Paulo/Brazil.
+  I'm from São Paulo/Brazil
 
   🐈 Cats | 🕹️ Games | 💘 Programming
 </p>
@@ -26,7 +26,7 @@
 </h3>
 
 <p align="left">
-  JavaScript, Node js, Vue js, Ruby, Ruby on Rails, HTML, CSS, MySQL, MongoDB, AWS. 
+  JavaScript, Node js, Vue js, Ruby, Ruby on Rails, HTML, CSS, MySQL, MongoDB, AWS
 <p align="left">
   
 <h3 align="left">
