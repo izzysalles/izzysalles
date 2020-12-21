@@ -1,13 +1,14 @@
 ![izzy](https://user-images.githubusercontent.com/55500140/100650873-5ce02f00-3323-11eb-868e-d05a4f21b8ad.png)
 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzysalles&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=izzysalles&theme=default" /></td>
-  </tr>     
-</table>
-</center>
+<details>
+  <summary>:sparkles: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=izzysalles&theme=default" >
+</details>
+
+<details>
+  <summary>:sparkles: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzysalles&hide=html&layout=compact">
+</details>
 
 <h3 align="left">
   Hey, I'm Isabella :v:
