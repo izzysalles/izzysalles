@@ -1,14 +1,4 @@
-![izzy](https://user-images.githubusercontent.com/55500140/100650873-5ce02f00-3323-11eb-868e-d05a4f21b8ad.png)
-
-<details>
-  <summary>:sparkles: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=izzysalles&theme=default" >
-</details>
-
-<details>
-  <summary>:sparkles: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzysalles&hide=html&layout=compact">
-</details>
+![profile_memoji](https://user-images.githubusercontent.com/55500140/103138709-08c33300-46b4-11eb-8bd6-c604539f179c.png)
 
 <h3 align="left">
   Hey, I'm Isabella :v:
@@ -28,6 +18,16 @@
 
 <p align="left">
   JavaScript, Node js, Vue js, Ruby, Ruby on Rails, HTML, CSS, MySQL, MongoDB, AWS
+  
+  <details>
+   <summary>:sparkles: Github Stats</summary>
+   <img src="https://github-readme-stats.vercel.app/api?username=izzysalles&theme=default" >
+  </details>
+
+  <details>
+    <summary>:sparkles: Languages Used</summary>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzysalles&hide=html&layout=compact">
+  </details>
 <p align="left">
   
 <h3 align="left">
