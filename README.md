@@ -1,4 +1,4 @@
-![profile_memoji](https://user-images.githubusercontent.com/55500140/103138709-08c33300-46b4-11eb-8bd6-c604539f179c.png)
+![profile_memoji](https://user-images.githubusercontent.com/55500140/103138821-ebdb2f80-46b4-11eb-934f-1f1e2bf9e7ac.png)
 
 <h3 align="left">
   Hey, I'm Isabella :v:
