@@ -5,21 +5,27 @@
 </h3>
 
 <p align="left">
-  Currently working with frontend development at PagSeguro PagBank, using Vue.js
+  Currently working as a Senior UX/UI Designer at Dentsu World Services.
 
   I'm from São Paulo/Brazil
 
-  🐈 Cats | 🕹️ Games | 💘 Programming
+  🐈 Cats | 🕹️ Games | 💘 Programming | :art: Drawing | :open_book: Reading books
 </p>
 
 <h3 align="left">
-  Skills :computer:
+  Skills :memo:
 </h3>
 
 <p align="left">
-  JavaScript, Node js, Vue js, Ruby, Ruby on Rails, HTML, CSS, MySQL, MongoDB, AWS
-  
-  <details>
+  :computer: JavaScript, Node js, Vue js, Ruby, Ruby on Rails, HTML, CSS, MySQL, MongoDB, AWS
+</p>
+<p align="left">
+  :art:	Figma, Adobe XD, Adobe Photoshop, Prototyping
+</p>
+
+<details>
+
+  :art:	Figma, Adobe XD, Adobe Photoshop, Prototyping
    <summary>:sparkles: Github Stats</summary>
    <img src="https://github-readme-stats.vercel.app/api?username=izzysalles&theme=default" >
   </details>
