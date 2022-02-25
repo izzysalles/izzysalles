@@ -1,7 +1,7 @@
 ![profile_memoji](https://user-images.githubusercontent.com/55500140/103138821-ebdb2f80-46b4-11eb-934f-1f1e2bf9e7ac.png)
 
 <h3 align="left">
-  Hey, I'm Isabella :v:
+  Hey, I'm Isabella <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h3>
 
 <p align="left">
