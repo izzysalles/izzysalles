@@ -4,11 +4,11 @@
 </h2>
 
 <p align="left">
-  Currently searching for a new opportunity.
+  Currently searching for a new opportunity as Quality Assurance Engineer.
 
-  I'm from São Paulo/Brazil
+  I'm from Santos/Brazil
 
-  🐈 Cats | 🕹️ Games | 💘 Programming | :art: Drawing | :open_book: Reading books
+  🐈 Cats | 💻 Testing | 💘 Programming | :art: Drawing | :open_book: Reading books
 </p>
 
 <h3 align="left">
@@ -16,7 +16,7 @@
 </h3>
 
 <p align="left">
-  :computer: Java, JavaScript, Node js, Vue js, Ruby, Ruby on Rails, HTML, CSS, MySQL, MongoDB, AWS
+  :computer: Cypress, Java, JavaScript, Node js, Vue js, Ruby, Ruby on Rails, HTML, CSS, MySQL, MongoDB, AWS
 </p>
 <p align="left">
   :art:	Figma, Adobe XD, Adobe Photoshop, Prototyping
@@ -24,7 +24,6 @@
 
 <details>
 
-  :art:	Figma, Adobe XD, Adobe Photoshop, Prototyping
    <summary>:sparkles: Github Stats</summary>
    <img src="https://github-readme-stats.vercel.app/api?username=izzysalles&theme=default" >
   </details>
