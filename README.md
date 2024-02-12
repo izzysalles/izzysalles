@@ -4,7 +4,7 @@
 </h2>
 
 <p align="left">
-  Currently searching for a new opportunity as UX/UI Designer.
+  Currently searching for a new opportunity as Quality Assurance Engineer.
 
   I'm from Santos/Brazil
 
